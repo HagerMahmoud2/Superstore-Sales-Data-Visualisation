@@ -4,6 +4,7 @@ superstore is Superstore is a fictional retail company based in the United State
 My role is to identify weaknesses and opportunities within their business, and my goal is to help them enhance their business growth and profitability.
 # Tools Used
 power query : for data preproccesing
+
 power bi : for dashboard
 # Dashboard
 ![dashboard](https://github.com/user-attachments/assets/e21485c3-a1ba-4ec8-afd3-c2ff73c76ac7)
